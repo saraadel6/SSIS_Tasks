@@ -20,3 +20,8 @@ Using Microsoft SQL Server and the SSIS tool.
 + Read attendance data from a device and load it into a target table with fields like Employee ID, Date, Time In, Time Out, Worked Hours, and State.
 + The state descriptions range from 'Arrived on time and worked more than 8 hours' to 'No check-out record for the employee.'
 + Implement logic to handle multiple check-ins/outs and ensure accurate recording of work hours and states.
+
+
+## Contributors:
+- [Sara Adel](https://github.com/saraadel6)
+- [Mariam Ramadan](https://github.com/Mariamramdan)
